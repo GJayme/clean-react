@@ -1,0 +1,11 @@
+{
+  "name": "clean-react",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/GJayme/clean-react.git",
+  "author": "Gabriel Jayme <gabrielj_89@hotmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "git-commit-msg-linter": "^3.0.0"
+  }
+}
